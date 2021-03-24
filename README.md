@@ -1,5 +1,9 @@
 # Crypto-formula
 
+message improve 10%
+
+above 5%
+
 perhaps 1hours 20% 
 
 above 10%
