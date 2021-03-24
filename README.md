@@ -1,7 +1,16 @@
 # Crypto-formula
+
 perhaps 1hours 20% 
 
+above 10%
+
 must 4hours 40% 
+
+above 20%
+
+maybe 1days 50% 
+
+above 25%
 
 loss cut 63%  
 
