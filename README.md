@@ -8,11 +8,11 @@ must 4hours 40%
 
 above 20%
 
-maybe 1days 50% 
+maybe 1days 40% 
 
-above 25%
+above 40%
 
-loss cut 63%  
+loss cut 63%-93%  
 
 40 days 
 
